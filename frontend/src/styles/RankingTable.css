@@ -1,0 +1,11 @@
+.ranking-container{
+    display: flex;
+    justify-content: center;
+}
+
+.ranking-table{
+    width: 90%;
+    height: 60%;
+    background-color: #1B1D1F ;
+    border-radius: 10px;
+}

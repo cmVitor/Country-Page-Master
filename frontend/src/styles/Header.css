@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.image-wrapper{
+  position: relative;
+}
+
+.hero-image {
+    width: 100%;
+  display: block;
+}
+
+.world-ranks-logo {
+  position: absolute;
+  top: 40%;
+  left: 42.5%;
+}
