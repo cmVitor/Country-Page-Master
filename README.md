@@ -2,7 +2,7 @@
 
 ![Thumbnail for the Country Page - WorldRanks coding challenge](./thumbnail.jpg)
 
-## Welcome! 👋
+## Welcome! 
 
 Welcome to this responsive web coding challenge.
 
